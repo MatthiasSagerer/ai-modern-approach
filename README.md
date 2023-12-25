@@ -1,0 +1,2 @@
+This repo is the place for notes, coding exercises and more while I work through the book *Artificial Intelligence - A Modern Approach* by Stuart Russel and Peter Norvig.
+I have the Global Edition of the Fourth Edition from 2022.
